@@ -15,7 +15,7 @@ export default function Login() {
         login(response.data.email, response.data.name)
         navigate("/profile")
     };
-
+    
     return (
         <>
             <h1>Login </h1>
