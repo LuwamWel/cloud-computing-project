@@ -21,7 +21,7 @@ export default function SignUp() {
 
     return (
         <>
-            <h1>create an account 123</h1>
+            <h1>create an account</h1>
             <form>
                 <p>
                     <label htmlFor="name">Name: </label>
